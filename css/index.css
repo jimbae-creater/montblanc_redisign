@@ -4,7 +4,7 @@
 
 
 /* Hero Slide CSS */
-
+body {overflow-x: hidden;}
 .hero { width: 100%; height: 857px; position: relative; background-color: black;}
 .hero_slide { width: 100%; height: 100%; position: absolute; top:0; left:0;
 padding: 120px; transition: all 0.4s;}
